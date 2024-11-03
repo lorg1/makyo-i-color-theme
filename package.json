@@ -1,0 +1,21 @@
+{
+  "name": "makyo-i-color-theme",
+  "displayName": "Makyo.I",
+  "description": "Custom theme based on Underdark (by Rolando Taipe)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Makyo.I",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Makyo.I-color-theme.json"
+      }
+    ]
+  }
+}
