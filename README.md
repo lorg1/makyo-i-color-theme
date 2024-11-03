@@ -1,16 +1,15 @@
-# makyo-i-color-theme README
+# Makyo.I 
 
-## Working with Markdown
+## Custom theme for Visual Studio Code 
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Playing around with [**themes.vscode.one**](https://themes.vscode.one/), I ended up creating "my own" color theme for VS Code after struggling to find a satisfying dark theme.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This theme was made using the Underdark color theme as a template.
 
-## For more information
+## Images 
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+soontm
 
-**Enjoy!**
+## Underdark 
+
+The Underdark color theme was made by Rolando Taipe and is available [**here**](https://marketplace.visualstudio.com/items?itemName=RolandoTaipe.Underdark).
